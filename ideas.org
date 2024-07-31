@@ -1,0 +1,18 @@
+#+TITLE: Ideas & Stuff
+
+Notepad for ideas, things to do, etc.
+
+* Better Name
+Want something that can be paired with a nice avatar/icon thing.
+
+ - berry
+ - gonado ( Go + tornado )
+ - Go Awesome Framework For Events ( gaffe )
+ - chisel ( for breaking up monoliths, could go with lots of rock-tool based puns )
+ - seer
+ - harmony ( synonym of orchestration-as-musical-arrangement )
+ - coherence ( as synonym of orchestration-as-in-symmetry )
+   - goherence
+   - cohere
+ - aqueduct ( as synonym of channel-as-in-canal, can go with lots of
+   body-of-water puns )

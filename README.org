@@ -1,0 +1,25 @@
+#+TITLE: Chisel
+
+Chisel is a framework for building applications in Go, using modular blocks you
+write that are wired up by the framework into different deployments based on
+configurations you write.
+
+The idea is that all developer-written code is wrapped up by the framework into
+workers that operate on channels. How the channels ( and thus concurrency ) work
+and how the framework operates behind the scenes is hidden from the developer (
+unless you want to get into the weeds to write custom components ).
+
+I bet you're wondering by now: is this a REST-based HTTP framework? Or a
+GRPC-based one? What about websockets?
+
+To those questions I ask: what about SSH? What about the various
+PubSub mechanisms out there; or event-driven service platforms like
+[[https://cloud.google.com/eventarc/docs/overview][GCP Eventarc]] or [[https://docs.aws.amazon.com/eventbridge/latest/userguide/eb-what-is.html][AWS EventBridge]]?
+
+My answer to all of those is: yes!
+
+The goal of this framework is to allow developers to use nearly anything as an
+input channel, and just as many ( if not more ) output channels.
+
+Additionally, the framework is also meant to help manage things like caching,
+databases, and the like.

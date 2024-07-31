@@ -2,7 +2,8 @@
 
 Notepad for ideas, things to do, etc.
 
-* Better Name
+* DONE Better Name
+CLOSED: [2024-07-31 Wed 08:59]
 Want something that can be paired with a nice avatar/icon thing.
 
  - berry
